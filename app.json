@@ -1,0 +1,12 @@
+{
+  "name": "Movies",
+  "displayName": "Movienesta",
+  "expo": {
+    "name": "Movies",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "37.0.0"
+  }
+}
